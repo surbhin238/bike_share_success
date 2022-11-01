@@ -14,3 +14,12 @@ Cyclistic is a bike-sharing program that features more than 5,800 bicycles and 6
 Being a junior data analyst I get to work with a team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketting strategy.
 
 The director of marketing who is mu manager, Lily Moreno has set a clear goal: Designing marketing strategies aimed at converting casual riders into annual members. In order to do that, however, our marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
+
+
+There are three questions that will guide the future marketing program:
+  1. How do annual members and casual riders use Cyclistic bikes differently?
+  2. Why would casual riders buy Cyclistic annual memberships?
+  3. How can Cyclistic use digital media to influence casual riders to become members? 
+  
+**My target question to answer is : How do annual members and casual riders use Cyclistic differently?**
+
