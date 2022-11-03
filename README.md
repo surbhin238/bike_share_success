@@ -7,4 +7,5 @@ The data has been made avaiable by Motivate International Inc. It is a public da
 Due to data privacy reasons, we would be unable to use riders' personally identifiable information. This means that I wouldn't be able  to connect pass purchases to credit card numbers to determine whether casual drivers live in the Cyclistic service area or if they have purchased multiple single passes. 
 
 
-<img width="575" alt="image" src="https://user-images.githubusercontent.com/116120710/199797356-5d3c4710-7789-4510-b330-91ecd6d584ea.png">
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/116120710/199797883-1daf3fdf-2208-4585-8eb3-8fa7f3ba3503.png">
+
