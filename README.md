@@ -1,10 +1,8 @@
 I will begin the Data Aanlaysis process with the Ask task (It even rhymes!)
 
-The attached report states the following deliverables: 
+What is the problem to be solved? 
+> We are trying to create profit for Cyclistic and this is possible only by converting causual riders into Cyclistic's annual members. But before accomplishing that, my goal is to determine to difference between casual riders and annual memebers.
 
- 1. A clear statement of the business task
- 2. A description of all data sources used 
- 3. Documentation of any cleaning or manipulation of data
- 4. A summary of my analysis 
- 5. Supporting visualizations and key finding
- 6. My top three recommendations based on the analysis. 
+
+
+How can your insights  drive business decisions?
